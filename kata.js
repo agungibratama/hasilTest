@@ -18,4 +18,3 @@ function hapusDuplikat(word) {
 }
 
 console.log(hapusDuplikat('imajination'));
-console.log(hapusDuplikat('associate'));
